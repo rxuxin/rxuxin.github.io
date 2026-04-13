@@ -113,7 +113,7 @@ error_img:
 # A simple 404 page
 error_404:
   enable: false
-  subtitle: 'Page Not Found'
+  subtitle: '页面未找到'
   background: /img/error-page.png
 
 post_meta:
@@ -286,11 +286,11 @@ aside:
     button:
       enable: true
       icon: fab fa-github
-      text: Follow Me
+      text: 关注我
       link: https://github.com/rxuxin
   card_announcement:
     enable: true
-    content: This is Rxuxin's Blog
+    content: 这是 Rxuxin 的博客
   card_recent_post:
     enable: true
     # If set 0 will show all
